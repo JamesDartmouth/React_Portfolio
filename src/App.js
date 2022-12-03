@@ -3,6 +3,8 @@ import './App.css';
 import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 function App() {
