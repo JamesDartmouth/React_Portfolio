@@ -11,6 +11,7 @@ User can find deployed app at [Deployed](https://github.com/JamesDartmouth/React
 
 Repot can be found at [Repo](https://github.com/JamesDartmouth/React_Portfolio)
 
+Screenshot[ReactPortfolio](./public/img/ReactPortfolio.png)
 
 ## Credits
 
